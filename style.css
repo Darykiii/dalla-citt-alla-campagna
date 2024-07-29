@@ -1,0 +1,19 @@
+body{
+    font-family: "Poppins", sans-serif;
+    align-items: center;
+    display: flex;
+}
+
+.cabeçalho{
+    background-color: #33c010;
+    color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+
+
+
+
